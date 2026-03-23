@@ -1,0 +1,101 @@
+﻿[36mvite v5.4.21 [32mbuilding for production...[36m[39m
+transforming...
+[32mΓ£ô[39m 408 modules transformed.
+npx : [31mx[39m 
+Build failed in 1.55s
+At line:1 char:1
++ npx vite build 2>&1 
+| Out-File -FilePath "g
+:\Protofolio\build_outp
+ut. ...
++ ~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: ([31mx[39m B   
+ uild failed in 1.5    
+5s:String) [], Rem    
+oteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+[31merror during 
+build:
+[31msrc/components/Ski
+lls.jsx (6:20): 
+"SiCss3" is not 
+exported by "node_modul
+es/react-icons/si/index
+.mjs", imported by "src
+/components/Skills.jsx"
+.[31m
+file: [36mG:/Protofoli
+o/src/components/Skills
+.jsx:6:20[31m
+[33m
+4: import ScrollReveal 
+from './ScrollReveal';
+5: import { 
+6:   SiReact, SiHtml5, 
+SiCss3, SiJavascript, 
+                       
+^
+7:   SiNodedotjs, 
+SiExpress, SiMysql, 
+SiInsomnia,
+8:   SiScikitlearn, 
+SiPandas, SiNumpy, 
+SiPlotly,
+[31m
+    at getRollupError (
+file:///G:/Protofolio/n
+ode_modules/rollup/dist
+/es/shared/parseAst.js:
+402:41)
+    at error (file:///G
+:/Protofolio/node_modul
+es/rollup/dist/es/share
+d/parseAst.js:398:42)
+    at Module.error (fi
+le:///G:/Protofolio/nod
+e_modules/rollup/dist/e
+s/shared/node-entry.js:
+17040:16)
+    at 
+Module.traceVariable (f
+ile:///G:/Protofolio/no
+de_modules/rollup/dist/
+es/shared/node-entry.js
+:17452:29)
+    at ModuleScope.find
+Variable (file:///G:/Pr
+otofolio/node_modules/r
+ollup/dist/es/shared/no
+de-entry.js:15070:39)
+    at Identifier.bind 
+(file:///G:/Protofolio/
+node_modules/rollup/dis
+t/es/shared/node-entry.
+js:5447:40)
+    at Property.bind (f
+ile:///G:/Protofolio/no
+de_modules/rollup/dist/
+es/shared/node-entry.js
+:2829:23)
+    at 
+ObjectExpression.bind (
+file:///G:/Protofolio/n
+ode_modules/rollup/dist
+/es/shared/node-entry.j
+s:2825:28)
+    at VariableDeclarat
+or.bind (file:///G:/Pro
+tofolio/node_modules/ro
+llup/dist/es/shared/nod
+e-entry.js:2829:23)
+    at VariableDeclarat
+ion.bind (file:///G:/Pr
+otofolio/node_modules/r
+ollup/dist/es/shared/no
+de-entry.js:2825:28)[3
+9m

@@ -1,0 +1,59 @@
+﻿node : [33mThe CJS 
+build of Vite's Node 
+API is deprecated. See 
+https://vite.dev/guide/
+troubleshooting.html#vi
+te-cjs-node-api-depreca
+ted for more 
+details.[39m
+At line:1 char:1
++ node -e "const 
+{build} = 
+require('vite'); 
+build().catch(e => { 
+consol ...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: ([33mThe CJS    
+ bu...e details.[3    
+9m:String) [], Rem    
+oteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+[36mvite v5.4.21 [32mbuilding for production...[36m[39m
+transforming...
+[32mΓ£ô[39m 408 modules transformed.
+[31mx[39m Build 
+failed in 1.77s
+[31msrc/components/Ski
+lls.jsx (6:20): 
+"SiCss3" is not 
+exported by "node_modul
+es/react-icons/si/index
+.mjs", imported by "src
+/components/Skills.jsx"
+.[39m
+file: [36mG:/Protofoli
+o/src/components/Skills
+.jsx:6:20[39m
+[33m
+4: import ScrollReveal 
+from './ScrollReveal';
+5: import { 
+6:   SiReact, SiHtml5, 
+SiCss3, SiJavascript, 
+                       
+^
+7:   SiNodedotjs, 
+SiExpress, SiMysql, 
+SiInsomnia,
+8:   SiScikitlearn, 
+SiPandas, SiNumpy, 
+SiPlotly,
+[39m
