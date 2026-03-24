@@ -53,7 +53,7 @@ export const skills = {
 
 export const projects = [
   {
-    title: "Consumption Monitoring & Recommendation System",
+    title: "Power Consumption Monitoring & Recommendation System",
     date: "Oct 2025",
     description:
       "An intelligent system to monitor household electricity usage, identify abnormal consumption patterns, and suggest actionable steps to reduce energy waste. Features real-time alerts, notification triggers, and user-friendly dashboards for daily and monthly power consumption insights.",
