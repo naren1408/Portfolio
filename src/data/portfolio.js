@@ -12,7 +12,7 @@ export const personalInfo = {
   location: "India",
   linkedin: "https://www.linkedin.com/in/sai-naren-m",
   github: "https://github.com/naren1408",
-  resume: "/CV.SN.pdf",
+  resume: "/CV.S.pdf",
   about: `I'm a passionate Computer Science Engineering student at Lovely Professional University with a strong foundation in full-stack development, machine learning, and competitive programming. I love building intelligent, user-centric applications that solve real-world problems. With experience in Python, Java, C++, React, and Flask, I bring ideas to life through clean code and innovative solutions. I've solved 100+ coding challenges and participated in hackathons, always pushing myself to learn and grow.`,
 };
 
