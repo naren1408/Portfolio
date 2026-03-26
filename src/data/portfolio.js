@@ -56,16 +56,16 @@ export const projects = [
     title: "Power Consumption Monitoring & Recommendation System",
     date: "Oct 2025",
     description:
-      "An intelligent system to monitor household electricity usage, identify abnormal consumption patterns, and suggest actionable steps to reduce energy waste. Features real-time alerts, notification triggers, and user-friendly dashboards for daily and monthly power consumption insights.",
-    techStack: ["Python", "Machine Learning", "Flask", "Data Analytics"],
+      "An intelligent energy management system that leverages Machine Learning to monitor household electricity usage, forecast future consumption, and identify anomalies. Provides actionable, personalized recommendations for reducing energy costs through an interactive dashboard.",
+    techStack: ["React", "Flask", "Machine Learning", "Tailwind CSS", "Recharts"],
     highlights: [
-      "Anomaly detection pipelines using ML models",
-      "Personalized optimization recommendations",
-      "Real-time alerts & dashboards",
-      "Flask backend for data flow management",
+      "Consumption forecasting using Random Forest models",
+      "Anomaly detection with Isolation Forest pipelines",
+      "Interactive data visualization with Recharts",
+      "Actionable AI-driven efficiency recommendations",
     ],
     liveLink: "#",
-    githubLink: "https://github.com/Naren",
+    githubLink: "https://github.com/naren1408/power",
   },
   {
     title: "E-Commerce Website",
